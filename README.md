@@ -4,8 +4,3 @@ this
 
 is
 
-my	
-
-hes
-
-h
