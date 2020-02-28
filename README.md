@@ -8,3 +8,4 @@ change in dev after merge and modify in master branch
 
 test
 
+`\f(x)=\frac{b}{c}`
